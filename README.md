@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me Mervin Valan
 
 Aspiring Java Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
                                                  
 
 I'm Mervin Valan a passionate Java developer with expertise in a variety of technologies. With a strong foundation in HTML, CSS, and JavaScript, I craft dynamic and engaging web applications. My proficiency extends to frameworks like ReactJS, where I leverage its power to build intuitive user interfaces.
@@ -25,7 +26,16 @@ Beyond coding, I'm dedicated to continuous learning, staying abreast of emerging
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervinValanM&theme=dark&show_icons=true&&hide=issues,contribs)
 
+[![Mervin Valan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MervinValanM&&theme=xcode)](https://github.com/MervinValanM)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MervinValanM&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MervinValanM" /></p> 
+
+<p></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MervinValanM&show_icons=true&locale=en&theme=tokyonight" alt="MervinValanM" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MervinValanM&&theme=tokyonight" alt="MervinValanM" /></p>
 
 [![Mervin Valan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MervinValanM&bg_color=000000&color=4c919e&line=3e9eb1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
